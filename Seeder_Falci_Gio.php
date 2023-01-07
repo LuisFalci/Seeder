@@ -475,7 +475,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 									],
 								],
 							],
-							'subsection-3' => [
+							'subsection-4' => [
 								'title' => ' Órgãos e Funcionários Localizados em Juiz de Fora',
 								[
 									'serie-51' => [
@@ -2519,7 +2519,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 					'section-3' => [
 						'title' => 'COMISSÕES DA CÂMARA DE VEREADORES',
 						[
-							'subsection-11' => [
+							'subsection-1' => [
 								'title' => 'COMISSÕES DA CÂMARA DE VEREADORES',
 								[
 									'serie-139' => [
@@ -2753,7 +2753,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 									],
 								]
 							],
-							'subsection-12' => [
+							'subsection-2' => [
 								'title' => 'INDICAÇÕES APRESENTADAS EM SESSÕES DA CÂMARA',
 								[
 									'serie-147' => [
@@ -2870,7 +2870,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 									],
 								]
 							],
-							'subsection-13' => [
+							'subsection-3' => [
 								'title' => 'REQUERIMENTOS E PROPOSTAS DE VEREADORES',
 								[
 									'serie-161' => [
@@ -2939,7 +2939,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 									],
 								]
 							],
-							'subsection-14' => [
+							'subsection-4' => [
 								'title' => 'OUTROS DOCUMENTOS DE VEREADORES',
 								[
 									'serie-163' => [
@@ -3047,7 +3047,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 					'section-4' => [
 						'title' => 'ENTIDADES PRIVADAS',
 						[
-							'subsection-15' => [
+							'subsection-1' => [
 								'title' => 'SEM SUBSEÇÃO',
 								[
 									'serie-169' => [
@@ -3140,7 +3140,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 					'section-5' => [
 						'title' => 'Seção DOCUMENTOS DE TERCEIROS',
 						[
-							'subsection-16' => [
+							'subsection-1' => [
 								'title' => 'SEM SUBSEÇÃO',
 								[
 									'serie-178' => [
