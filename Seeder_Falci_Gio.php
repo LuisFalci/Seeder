@@ -33,7 +33,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 				'title' => 'Câmara Municipal de Juiz de Fora no Império',
 				[
 					'section-1' => [
-						'title' => 'ÓRGÃOS DO GOVERNO IMPERIAL E PROVINCIAL',
+						'title' => 'Órgãos do Governo Imperial e Provincial',
 						[
 							'subsection-1' => [
 								'title' => 'Governo Imperial',
@@ -45,7 +45,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1880'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1887'),
 										[
-											'item' => 11,
+											'item' => 5,
 										],
 									],
 									'serie-2' => [
@@ -53,7 +53,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1874'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1877'),
 										[
-											'item' => 10,
+											'item' => 6,
 										],
 									],
 									'serie-3' => [
@@ -62,7 +62,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1856'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
 										[
-											'item' => 46,
+											'item' => 26,
 										],
 									],
 									'serie-4' => [
@@ -71,7 +71,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1872'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
 										[
-											'item' => 65,
+											'item' => 32,
 										],
 									],
 									'serie-5' => [
@@ -80,7 +80,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1858'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1878'),
 										[
-											'item' => 20,
+											'item' => 16,
 										],
 									],
 									'serie-6' => [
@@ -88,7 +88,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1864'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1888'),
 										[
-											'item' => 13,
+											'item' => 10,
 										],
 									],
 								],
@@ -102,7 +102,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1861'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
 										[
-											'item' => 39,
+											'item' => 30,
 										],
 									],
 									'serie-8' => [
@@ -111,7 +111,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1863'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1882'),
 										[
-											'item' => 18,
+											'item' => 9,
 										],
 									],
 									'serie-9' => [
@@ -120,7 +120,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1854'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1888'),
 										[
-											'item' => 135,
+											'item' => 87,
 										],
 									],
 									'serie-10' => [
@@ -129,7 +129,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1888'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1888'),
 										[
-											'item' => 9,
+											'item' => 20,
 										],
 									],
 									'serie-11' => [
@@ -138,7 +138,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1861'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1887'),
 										[
-											'item' => 22,
+											'item' => 13,
 										],
 									],
 									'serie-12' => [
@@ -146,7 +146,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1859'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1887'),
 										[
-											'item' => 10,
+											'item' => 6,
 										],
 									],
 									'serie-13' => [
@@ -154,7 +154,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1854'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1871'),
 										[
-											'item' => 37,
+											'item' => 24,
 										],
 									],
 									'serie-14' => [
@@ -162,7 +162,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1870'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1887'),
 										[
-											'item' => 6,
+											'item' => 5,
 										],
 									],
 									'serie-15' => [
@@ -171,7 +171,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1853'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
 										[
-											'item' => 450,
+											'item' => 267,
 										],
 									],
 									'serie-16' => [
@@ -179,7 +179,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1855'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1883'),
 										[
-											'item' => 31,
+											'item' => 17,
 										],
 									],
 									'serie-17' => [
@@ -188,7 +188,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1871'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1888'),
 										[
-											'item' => 36,
+											'item' => 19,
 										],
 									],
 									'serie-18' => [
@@ -196,7 +196,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1860'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1885'),
 										[
-											'item' => 15,
+											'item' => 9,
 										],
 									],
 									'serie-19' => [
@@ -204,7 +204,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1854'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1888'),
 										[
-											'item' => 92,
+											'item' => 58,
 										],
 									],
 									'serie-20' => [
@@ -220,7 +220,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1855'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1887'),
 										[
-											'item' => 15,
+											'item' => 9,
 										],
 									],
 									'serie-22' => [
@@ -228,7 +228,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1869'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1888'),
 										[
-											'item' => 8,
+											'item' => 5,
 										],
 									],
 									'serie-23' => [
@@ -237,7 +237,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1853'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
 										[
-											'item' => 276,
+											'item' => 169,
 										],
 									],
 									'serie-24' => [
@@ -246,7 +246,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1854'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1888'),
 										[
-											'item' => 136,
+											'item' => 92,
 										],
 									],
 									'serie-25' => [
@@ -255,7 +255,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1850'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1888'),
 										[
-											'item' => 65,
+											'item' => 43,
 										],
 									],
 									'serie-26' => [
@@ -263,7 +263,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1856'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1885'),
 										[
-											'item' => 13,
+											'item' => 8,
 										],
 									],
 									'serie-27' => [
@@ -272,7 +272,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1862'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1888'),
 										[
-											'item' => 45,
+											'item' => 19,
 										],
 									],
 									'serie-28' => [
@@ -280,7 +280,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1853'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
 										[
-											'item' => 14,
+											'item' => 6,
 										],
 									],
 									'serie-29' => [
@@ -288,7 +288,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1854'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1887'),
 										[
-											'item' => 294,
+											'item' => 167,
 										],
 									],
 									'serie-30' => [
@@ -297,7 +297,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1864'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1882'),
 										[
-											'item' => 27,
+											'item' => 20,
 										],
 									],
 									'serie-31' => [
@@ -306,7 +306,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1859'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
 										[
-											'item' => 98,
+											'item' => 57,
 										],
 									],
 									'serie-32' => [
@@ -315,7 +315,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1853'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
 										[
-											'item' => 73,
+											'item' => 45,
 										],
 									],
 									'serie-33' => [
@@ -323,7 +323,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1883'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1887'),
 										[
-											'item' => 11,
+											'item' => 7,
 										],
 									],
 									'serie-34' => [
@@ -331,7 +331,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1855'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
 										[
-											'item' => 79,
+											'item' => 44,
 										],
 									],
 									'serie-35' => [
@@ -340,7 +340,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1865'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1879'),
 										[
-											'item' => 35,
+											'item' => 29,
 										],
 									],
 								],
@@ -354,7 +354,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1868'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1888'),
 										[
-											'item' => 17,
+											'item' => 12,
 										],
 									],
 									'serie-37' => [
@@ -363,7 +363,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1861'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
 										[
-											'item' => 66,
+											'item' => 36,
 										],
 									],
 									'serie-38' => [
@@ -371,7 +371,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1858'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1871'),
 										[
-											'item' => 15,
+											'item' => 8,
 										],
 									],
 									'serie-39' => [
@@ -379,7 +379,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1865'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
 										[
-											'item' => 34,
+											'item' => 8,
 										],
 									],
 									'serie-40' => [
@@ -387,7 +387,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1858'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1886'),
 										[
-											'item' => 19,
+											'item' => 13,
 										],
 									],
 									'serie-41' => [
@@ -396,7 +396,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1881'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
 										[
-											'item' => 57,
+											'item' => 27,
 										],
 									],
 									'serie-42' => [
@@ -404,7 +404,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1867'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1883'),
 										[
-											'item' => 10,
+											'item' => 5,
 										],
 									],
 									'serie-43' => [
@@ -412,7 +412,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1857'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1888'),
 										[
-											'item' => 296,
+											'item' => 162,
 										],
 									],
 									'serie-44' => [
@@ -420,7 +420,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1858'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1885'),
 										[
-											'item' => 39,
+											'item' => 24,
 										],
 									],
 									'serie-45' => [
@@ -429,7 +429,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1853'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1874'),
 										[
-											'item' => 153,
+											'item' => 102,
 										],
 									],
 									'serie-46' => [
@@ -437,7 +437,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1858'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1887'),
 										[
-											'item' => 11,
+											'item' => 7,
 										],
 									],
 									'serie-47' => [
@@ -446,7 +446,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1853'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
 										[
-											'item' => 442,
+											'item' => 265,
 										],
 									],
 									'serie-48' => [
@@ -454,7 +454,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1853'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1886'),
 										[
-											'item' => 145,
+											'item' => 99,
 										],
 									],
 									'serie-49' => [
@@ -462,7 +462,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1858'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1858'),
 										[
-											'item' => 3,
+											'item' => 2,
 										],
 									],
 									'serie-50' => [
@@ -470,12 +470,12 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1889'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
 										[
-											'item' => 16,
+											'item' => 7,
 										],
 									],
 								],
 							],
-							'subsection-4' => [
+							'subsection-3' => [
 								'title' => ' Órgãos e Funcionários Localizados em Juiz de Fora',
 								[
 									'serie-51' => [
@@ -483,7 +483,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1875'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1878'),
 										[
-											'item' => 360,
+											'item' => 183,
 										],
 									],
 									'serie-52' => [
@@ -492,7 +492,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1843'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
 										[
-											'item' => 446,
+											'item' => 22,
 										],
 									],
 									'serie-53' => [
@@ -501,7 +501,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1854'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1883'),
 										[
-											'item' => 160,
+											'item' => 75,
 										],
 									],
 									'serie-54' => [
@@ -518,7 +518,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1856'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1886'),
 										[
-											'item' => 129,
+											'item' => 73,
 										],
 										[
 											'subserie-55.1' => [
@@ -552,7 +552,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1853'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1884'),
 										[
-											'item' => 169,
+											'item' => 97,
 										],
 										[
 											'subserie-56.1' => [
@@ -578,7 +578,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1853'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
 										[
-											'item' => 554,
+											'item' => 251,
 										],
 										[
 											'subserie-57.1' => [
@@ -604,7 +604,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1853'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
 										[
-											'item' => 48,
+											'item' => 158,
 										],
 										[
 											'subserie-58.1' => [
@@ -630,7 +630,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1854'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
 										[
-											'item' => 134,
+											'item' => 61,
 										],
 										[
 											'subserie-59.1' => [
@@ -689,7 +689,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1853'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1887'),
 										[
-											'item' => 142,
+											'item' => 115,
 										],
 										[
 											'subserie-60.1' => [
@@ -723,7 +723,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1853'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
 										[
-											'item' => 314,
+											'item' => 159,
 										],
 										[
 											'subserie-61.1' => [
@@ -773,7 +773,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1853'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
 										[
-											'item' => 324,
+											'item' => 113,
 										],
 										[
 											'subserie-62.1' => [
@@ -799,7 +799,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1883'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
 										[
-											'item' => 526,
+											'item' => 317,
 										],
 										[
 											'subserie-63.1' => [
@@ -850,7 +850,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 										'start_date' => \Carbon\Carbon::parse('01-01-1854'),
 										'end_date' => \Carbon\Carbon::parse('31-12-1884'),
 										[
-											'item' => 92,
+											'item' => 59,
 										],
 										[
 											'subserie-64.1' => [
@@ -1178,9 +1178,9 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 													'item' => 8
 												],
 											],
-										]
+										],
 									],
-								]
+								],
 							],
 							'subsection-2' => [
 								'title' => 'FINANÇAS DO MUNICÍPIO',
@@ -1348,7 +1348,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 											'item' => 9
 										],
 									],
-								]
+								],
 							],
 							'subsection-3' => [
 								'title' => 'FISCAL E AGENTE FISCAL',
@@ -2514,8 +2514,10 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 									]
 								],
 							],
+
 						],
 					],
+
 					'section-3' => [
 						'title' => 'COMISSÕES DA CÂMARA DE VEREADORES',
 						[
@@ -2751,296 +2753,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 											]
 										],
 									],
-								]
-							],
-							'subsection-2' => [
-								'title' => 'INDICAÇÕES APRESENTADAS EM SESSÕES DA CÂMARA',
-								[
-									'serie-147' => [
-										'title' => 'INDICAÇÕES referentes a adiamento de sessões da Câmara.',
-										'start_date' => \Carbon\Carbon::parse('01-01-1883'),
-										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
-										[
-											'item' => 7,
-										],
-									],
-									'serie-148' => [
-										'title' => 'INDICAÇÕES contendo agradecimentos, felicitações e votos de louvor.',
-										'start_date' => \Carbon\Carbon::parse('01-01-1857'),
-										'end_date' => \Carbon\Carbon::parse('31-12-1888'),
-										[
-											'item' => 15,
-										],
-									],
-									'serie-149' => [
-										'title' => 'INDICAÇÕES referentes à Cadeia.',
-										'start_date' => \Carbon\Carbon::parse('01-01-1858'),
-										'end_date' => \Carbon\Carbon::parse('31-12-1883'),
-										[
-											'item' => 28,
-										],
-									],
-									'serie-150' => [
-										'title' => 'INDICAÇÕES referentes a concorrência para obras diversas.',
-										'start_date' => \Carbon\Carbon::parse('01-01-1884'),
-										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
-										[
-											'item' => 11,
-										],
-									],
-									'serie-151' => [
-										'title' => 'INDICAÇÕES referentes a eleições diversas.',
-										'start_date' => \Carbon\Carbon::parse('01-01-1865'),
-										'end_date' => \Carbon\Carbon::parse('31-12-1887'),
-										[
-											'item' => 9,
-										],
-									],
-									'serie-152' => [
-										'title' => 'INDICAÇÕES referentes ao ensino público.',
-										'start_date' => \Carbon\Carbon::parse('01-01-1860'),
-										'end_date' => \Carbon\Carbon::parse('31-12-1887'),
-										[
-											'item' => 12,
-										],
-									],
-									'serie-153' => [
-										'title' => 'INDICAÇÕES referentes a nomeação para diversos cargos municipais.',
-										'start_date' => \Carbon\Carbon::parse('01-01-1853'),
-										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
-										[
-											'item' => 99,
-										],
-									],
-									'serie-154' => [
-										'title' => 'INDICAÇÕES referentes ao Matadouro Municipal.',
-										'start_date' => \Carbon\Carbon::parse('01-01-1856'),
-										'end_date' => \Carbon\Carbon::parse('31-12-1878'),
-										[
-											'item' => 22,
-										],
-									],
-									'serie-155' => [
-										'title' => 'INDICAÇÕES referentes à construção da Praça do Mercado Municipal.',
-										'start_date' => \Carbon\Carbon::parse('01-01-1857'),
-										'end_date' => \Carbon\Carbon::parse('31-12-1874'),
-										[
-											'item' => 16,
-										],
-									],
-									'serie-156' => [
-										'title' => 'INDICAÇÕES referentes a diversas obras públicas. Inclui a Estrada de Ferro D. Pedro II, cadeia, cemitério, etc.',
-										'start_date' => \Carbon\Carbon::parse('01-01-1855'),
-										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
-										[
-											'item' => 458,
-										],
-									],
-									'serie-157' => [
-										'title' => 'INDICAÇÕES referentes a denominação de ruas e praças de Juiz de Fora.',
-										'start_date' => \Carbon\Carbon::parse('01-01-1870'),
-										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
-										[
-											'item' => 6,
-										],
-									],
-									'serie-158' => [
-										'title' => 'INDICAÇÕES referentes à saúde pública.',
-										'start_date' => \Carbon\Carbon::parse('01-01-1855'),
-										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
-										[
-											'item' => 9,
-										],
-									],
-									'serie-159' => [
-										'title' => 'INDICAÇÕES referentes a verbas dispendidas com o Presidente e o Procurador da Câmara de Juiz de Fora.',
-										'start_date' => \Carbon\Carbon::parse('01-01-1857'),
-										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
-										[
-											'item' => 40,
-										],
-									],
-									'serie-160' => [
-										'title' => 'INDICAÇÕES diversas.',
-										'start_date' => \Carbon\Carbon::parse('01-01-1854'),
-										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
-										[
-											'item' => 375,
-										],
-									],
-								]
-							],
-							'subsection-3' => [
-								'title' => 'REQUERIMENTOS E PROPOSTAS DE VEREADORES',
-								[
-									'serie-161' => [
-										'title' => 'REQUERIMENTOS de vereadores apresentados em sessões da Câmara de Juiz de Fora.',
-										'description' => '',
-										'start_date' => \Carbon\Carbon::parse('01-01-1857'),
-										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
-										[
-											'item' => 68,
-										],
-										[
-											'subserie-161.1' => [
-												'title' => 'Requerimentos de vereadores referentes a diversos assuntos.',
-												'start_date' => \Carbon\Carbon::parse('01-01-1857'),
-												'end_date' => \Carbon\Carbon::parse('31-12-1889'),
-												[
-													'item' => 55,
-												],
-											],
-											'subserie-161.2' => [
-												'title' => 'Requerimentos de vereadores referentes a obras públicas.',
-												'start_date' => \Carbon\Carbon::parse('01-01-1857'),
-												'end_date' => \Carbon\Carbon::parse('31-12-1889'),
-												[
-													'item' => 12,
-												],
-											],
-
-										],
-									],
-									'serie-162' => [
-										'title' => 'PROPOSTAS apresentadas por vereadores em sessões da Câmara de Juiz de Fora.',
-										'description' => '',
-										'start_date' => \Carbon\Carbon::parse('01-01-1853'),
-										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
-										[
-											'item' => 68,
-										],
-										[
-											'subserie-162.1' => [
-												'title' => 'Propostas apresentadas por vereadores referentes a assuntos diversos.',
-												'start_date' => \Carbon\Carbon::parse('01-01-1854'),
-												'end_date' => \Carbon\Carbon::parse('31-12-1889'),
-												[
-													'item' => 55,
-												],
-											],
-											'subserie-162.2' => [
-												'title' => 'Propostas apresentadas por vereadores, referentes a admissão e demissão de funcionários da
-												            Câmara.',
-												'start_date' => \Carbon\Carbon::parse('01-01-1853'),
-												'end_date' => \Carbon\Carbon::parse('31-12-1889'),
-												[
-													'item' => 12,
-												],
-											],
-											'subserie-162.3' => [
-												'title' => 'Propostas apresentadas por vereadores referentes a obras públicas.',
-												'start_date' => \Carbon\Carbon::parse('01-01-1857'),
-												'end_date' => \Carbon\Carbon::parse('31-12-1889'),
-												[
-													'item' => 6,
-												],
-											],
-										],
-									],
-								]
-							],
-							'subsection-4' => [
-								'title' => 'OUTROS DOCUMENTOS DE VEREADORES',
-								[
-									'serie-163' => [
-										'title' => 'DOCUMENTOS referentes a posturas municipais.',
-										'description' => '',
-										'start_date' => \Carbon\Carbon::parse('01-01-1853'),
-										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
-										[
-											'item' => 68,
-										],
-										[
-											'subserie-163.1' => [
-												'title' => 'Documentos referentes ao Código de Posturas municipais.
-												Contém projetos de código de posturas e outros documentos, inclusive o texto impresso do
-												Código de Posturas de 1860.',
-												'start_date' => \Carbon\Carbon::parse('01-01-1857'),
-												'end_date' => \Carbon\Carbon::parse('31-12-1863'),
-												[
-													'item' => 55,
-												],
-											],
-											'subserie-163.2' => [
-												'title' => 'Documentos contendo emendas adicionais, substitutivas e supressivas referentes a artigos e
-												parágrafos do Código de Posturas.',
-												'start_date' => \Carbon\Carbon::parse('01-01-1857'),
-												'end_date' => \Carbon\Carbon::parse('31-12-1887'),
-												[
-													'item' => 12,
-												],
-											],
-											'subserie-163.3' => [
-												'title' => 'Documentos referentes a propostas de artigos adicionais às Posturas Municipais. Estas
-												propostas foram aprovadas pela Câmara.',
-												'start_date' => \Carbon\Carbon::parse('01-01-1853'),
-												'end_date' => \Carbon\Carbon::parse('31-12-1889'),
-												[
-													'item' => 6,
-												],
-											],
-										],
-									],
-									'serie-164' => [
-										'title' => 'ATAS ( rascunhos ) de sessões da Câmara Municipal de Juiz de Fora.',
-										'start_date' => \Carbon\Carbon::parse('01-01-1857'),
-										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
-										[
-											'item' => 224,
-										],
-									],
-									'serie-165' => [
-										'title' => 'CARTAS de vereadores ao Presidente da Câmara de Juiz de Fora justificando ausência a sessões da Câmara. Algumas cartas estão sem data. Não há cartas referentes a ausência no ano de 1880.',
-										'start_date' => \Carbon\Carbon::parse('01-01-1853'),
-										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
-										[
-											'item' => 756,
-										],
-									],
-									'serie-166' => [
-										'title' => 'CONVOCAÇÕES de vereadores para sessões da Câmara. Inclui quatro confirmações de comparecimento.',
-										'start_date' => \Carbon\Carbon::parse('01-01-1854'),
-										'end_date' => \Carbon\Carbon::parse('31-12-1878'),
-										[
-											'item' => 17,
-										],
-									],
-									'serie-167' => [
-										'title' => 'DOCUMENTOS diversos referentes a sessões da Câmara de Vereadores.',
-										'start_date' => \Carbon\Carbon::parse('01-01-1857'),
-										'end_date' => \Carbon\Carbon::parse('31-12-1889'),
-										[
-											'item' => 17,
-										],
-									],
-									'serie-168' => [
-										'title' => 'CORRESPONDÊNCIA entre a Câmara de Juiz de Fora e Vereadores.',
-										'description' => '',
-										'start_date' => \Carbon\Carbon::parse('01-01-1857'),
-										'end_date' => \Carbon\Carbon::parse('31-12-1888'),
-										[
-											'item' => 68,
-										],
-										[
-											'subserie-168.1' => [
-												'title' => 'Correspondência referente à posse no cargo de vereador.',
-												'start_date' => \Carbon\Carbon::parse('01-01-1865'),
-												'end_date' => \Carbon\Carbon::parse('31-12-1888'),
-												[
-													'item' => 55,
-												],
-											],
-											'subserie-168.2' => [
-												'title' => 'Correspondência apresentando justificativas para não assumir o cargo de vereador .',
-												'start_date' => \Carbon\Carbon::parse('01-01-1857'),
-												'end_date' => \Carbon\Carbon::parse('31-12-1888'),
-												[
-													'item' => 12,
-												],
-											]
-										],
-									],
-								]
+								],
 							],
 						],
 					],
@@ -3133,12 +2846,12 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 											'item' => 37,
 										],
 									],
-								]
-							]
+								],
+							],
 						],
 					],
 					'section-5' => [
-						'title' => 'Seção DOCUMENTOS DE TERCEIROS',
+						'title' => 'DOCUMENTOS DE TERCEIROS',
 						[
 							'subsection-1' => [
 								'title' => 'SEM SUBSEÇÃO',
@@ -3152,8 +2865,8 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 											'item' => 21,
 										],
 									]
-								]
-							]
+								],
+							],
 						],
 					],
 				],
@@ -3197,5 +2910,7 @@ class InventarioSumarioDaCamaraMunicipalnoImperioSeeder extends Seeder
 				$archiveEntity->save();
 			}
 		}
+
 	}
+
 }
